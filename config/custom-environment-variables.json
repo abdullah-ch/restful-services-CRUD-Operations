@@ -1,0 +1,6 @@
+{
+    "mail": {
+        "host": "pro-mail-server",
+        "password": "app_password"
+    }
+}

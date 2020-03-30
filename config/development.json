@@ -1,0 +1,7 @@
+{
+  "_comments": "Development.JSON have settings that are only for development stage of the app, we can also overwrite the default setting here and add some additional settings too",
+  "name": "My Express App-Development",
+  "mail": {
+    "host": "dev-mail-server"
+  }
+}
